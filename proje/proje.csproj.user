@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="controls\CircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="controls\CustomComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="controls\DatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="controls\togglebutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formmn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formnbtgrs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formnbtsrglm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\formpopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formsfrgncllm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formsonatamalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Formyslyr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\modalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ToastForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="istatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="setupmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <PropertyGroup>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+</Project>
